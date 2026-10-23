@@ -132,7 +132,7 @@ This is an educational/demo project. The current implementation has several limi
 
 ## Authors
 
-**Madhan and Sudharson**
+**Sudharson V**
 
 ## Disclaimer
 
